@@ -6,7 +6,7 @@
 
 The purpose of this lab is to explore the capabilities of various Azure services, including Azure OpenAI, Azure AI Search (Formerly known as Cognitive Search), Document Intelligence (Formerly known as Form Recognizer), and Translator. These services offer powerful tools for natural language processing, advanced search functionality, document data extraction, and multilingual translation. By integrating these technologies, businesses can automate processes, enhance user experiences, and break down language barriers, leading to increased efficiency and global reach. This lab will provide hands-on experience in leveraging these services to solve real-world challenges.
 
-## Objective
+## Objectives
 
 By the end of this lab, you will have:
 
@@ -78,7 +78,7 @@ Feel free to **Start, Stop,** or **Restart (2)** your virtual machine as needed 
 
 ## Lab Guide Zoom In/Zoom Out
 
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+To adjust the zoom level for the environment page, click the **A↕** icon located next to the timer in the lab environment.
 
    ![](media/ee26.png)
 
