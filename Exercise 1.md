@@ -183,7 +183,7 @@ In this task, you will create the required Azure resources for AI Search, Docume
 
     ![](./media/E1T2.2S1-2804.png)
 
-1. On the **Microsoft Foundry | Document intelligence** blade, click on **+ Create**.
+1. On the **Microsoft Foundry | Document intelligence(1)** blade, click on **+ Create(2)**.
 
     ![](./media/l12-12-02.png)
 
@@ -217,7 +217,7 @@ In this task, you will create the required Azure resources for AI Search, Docume
 
     ![](./media/E1T2.3S1-2804.png)
 
-1. On the **Microsoft Foundry | Translator** blade, click on **+ Create**.
+1. On the **Microsoft Foundry | Translator(1)** blade, click on **+ Create(2)**.
 
     ![](./media/l1-12-6.png)
 
