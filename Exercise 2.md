@@ -48,6 +48,8 @@ In this task, you will create a new Azure Web App resource. The web app will be 
 
 1. On the **Database** tab, keep the default settings and click on **Next : Container >**.
 
+    ![](./media/database.png)
+
 1. On the **Container** tab, enter the following details and click on **Review + create (4)** button.
 
    - Image Source: Select **Other container registries (1)**

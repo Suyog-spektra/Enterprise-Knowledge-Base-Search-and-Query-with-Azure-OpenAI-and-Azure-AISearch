@@ -85,6 +85,12 @@ Azure OpenAI offers a web-based portal called the **Microsoft Foundry portal** f
 
     ![](./media/lab1-12-2.png)
 
+    > **Note**: If you are redirected to the new Microsoft Foundry portal, **toggle off** the switch located in the top-right corner. When the feedback pop-up appears, select **Continue without feedback**. You will then be redirected to the previous portal experience.
+    >
+    >![](media/foundry-toggle.png)
+    >
+    >![](media/feedbackpopup.png)
+
 1. In the Microsoft Foundry portal, navigate to **Deployments (1)**, select **+ Deploy model (2)**, and then choose **Deploy base model (3)**.
 
     ![](./media/lab1-12-3.png)
@@ -363,4 +369,4 @@ In this exercise, you have accomplished the following:
 
 ### Click on **Next >>** to proceed to the next exercise.
 
-![](./media/lab-02.png)
+![](./media/page_02.png)
