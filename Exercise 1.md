@@ -85,9 +85,15 @@ Azure OpenAI offers a web-based portal called the **Microsoft Foundry portal** f
 
     ![](./media/lab1-12-2.png)
 
-    > **Note**: If you are redirected to the new Microsoft Foundry portal, **toggle off** the switch located in the top-right corner. When the feedback pop-up appears, select **Continue without feedback**. You will then be redirected to the previous portal experience.
+    > **Note**: 1. If the **Create a project** window is displayed, click the **Close (X)** icon in the upper-right corner to dismiss it.
+    >
+    >![](media/foundry.png)
+    > 
+    > If you are redirected to the new Microsoft Foundry portal, **toggle off** the switch located in the top-right corner.
     >
     >![](media/foundry-toggle.png)
+    >
+    >When the feedback pop-up appears, select **Continue without feedback**. You will then be redirected to the previous portal experience.
     >
     >![](media/feedbackpopup.png)
 
