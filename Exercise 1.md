@@ -2,6 +2,10 @@
 
 #### Estimated Duration: 120 Minutes
 
+## Lab Scenario
+
+At Contoso Ltd, employees struggle to quickly find relevant information from a large collection of multilingual documents distributed across the organization. To address this challenge, the engineering team plans to build an AI-powered document processing pipeline using Azure services. The solution will automatically extract content from documents, translate text when required, and generate vector embeddings to support intelligent semantic search and accurate question-answering experiences.
+
 ## Overview
 
 In this exercise, you will gain hands-on experience in setting up a comprehensive Azure-based environment for embedding creation and document processing. The exercise is structured into two main parts:

@@ -2,6 +2,10 @@
 
 #### Estimated Duration: 120 Minutes
 
+## Lab Scenario
+
+At Contoso Ltd., the engineering team needs a simple way for employees to interact with the AI-powered knowledge base. To achieve this, the team plans to deploy a containerized web application on Azure using a pre-built Docker image. The application will connect to the Azure services configured earlier, enabling users to upload documents, generate embeddings, perform semantic searches, and receive accurate answers from the knowledge base. The solution also supports multilingual documents by translating content in real time before retrieval and response generation.
+
 ## Overview 
 
 In this exercise, you will create and deploy a web application from a Docker image in Azure, configure environment variables, and test the web app.
